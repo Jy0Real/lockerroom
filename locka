@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Football Locker Room</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🏈 Football Locker Room</h1>
+    <p>Pick your game and hit the field!</p>
+  </header>
+
+  <main class="locker">
+    <div class="locker-box">
+      <h2>Retro Bowl</h2>
+      <a href="https://retrobowlgame.com/" target="_blank" class="play-button">Play Now</a>
+    </div>
+    <div class="locker-box">
+      <h2>Axis Football</h2>
+      <a href="https://www.crazygames.com/game/axis-football-league" target="_blank" class="play-button">Play Now</a>
+    </div>
+    <div class="locker-box">
+      <h2>Return Man 2</h2>
+      <a href="https://returnman3.com/return-man-2/" target="_blank" class="play-button">Play Now</a>
+    </div>
+    <div class="locker-box">
+      <h2>4th and Goal 2022</h2>
+      <a href="https://www.crazygames.com/game/4th-and-goal-2022" target="_blank" class="play-button">Play Now</a>
+    </div>
+  </main>
+
+  <footer>
+    <p>Made by Jadon • © 2025</p>
+  </footer>
+</body>
+</html>
+
